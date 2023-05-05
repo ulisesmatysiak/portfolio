@@ -97,9 +97,12 @@ a:hover {
 
 /* Contacto */
 
-.red-social{
+#red-social{
   height: 100%;
   width: 40%;
 }
 
+#tech-images{
+  height: min-content;
+}
 
