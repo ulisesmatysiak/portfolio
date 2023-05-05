@@ -101,3 +101,9 @@ a:hover {
   height: 100%;
   width: 40%;
 }
+
+.contact{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
